@@ -1,4 +1,5 @@
 # RNBankDemo
+This is test update...
 
 react-native init RNBankDemo  
 cd RNBankDemo  
